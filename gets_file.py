@@ -1,4 +1,4 @@
-# Coded By NAuliajati
+# Coded By NAuliajati - Dinas Kominfo Kota Tangerang
 # Use your own Risk
 # Under BSD 3-Clause License
 # Compiled with Python 3.5
